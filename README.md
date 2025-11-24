@@ -26,6 +26,7 @@ Override it in subclasses Dentist, Cardiologist, and Surgeon to show different f
  ![image alt](https://github.com/aishagilani/module4/blob/ac7c3bc7e78eb67498820328f127354eedf54def/1.JPG)
 
 6) Java program to Transport → Truck, Ship, Airplane.
+
  ![image alt](https://github.com/aishagilani/module4/blob/ac7c3bc7e78eb67498820328f127354eedf54def/2.JPG)
 
 7) Java program to Demonstrate multiple inheritance using interfaces.
