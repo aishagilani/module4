@@ -26,16 +26,17 @@ Override it in subclasses Dentist, Cardiologist, and Surgeon to show different f
  ![image alt](https://github.com/aishagilani/module4/blob/ac7c3bc7e78eb67498820328f127354eedf54def/1.JPG)
 
 6) Java program to Transport → Truck, Ship, Airplane.
-7) 
+   
   ![image alt](https://github.com/aishagilani/module4/blob/ac7c3bc7e78eb67498820328f127354eedf54def/2.JPG)
 
 8) Java program to Demonstrate multiple inheritance using interfaces.
   ![image alt](https://github.com/aishagilani/module4/blob/ac7c3bc7e78eb67498820328f127354eedf54def/3.JPG)
 
 9) Java program to Create Payment parent and override pay() in subclasses.
+    
   ![image alt](https://github.com/aishagilani/module4/blob/ac7c3bc7e78eb67498820328f127354eedf54def/4.JPG)
 
-10) Java program to Demonstrate overriding using sound() method.
+11) Java program to Demonstrate overriding using sound() method.
   ![image alt](https://github.com/aishagilani/module4/blob/ac7c3bc7e78eb67498820328f127354eedf54def/5.JPG)
 
 12) Java program to Create a program to demonstrate Multilevel Inheritance using Animal → Dog → Puppy.
