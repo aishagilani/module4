@@ -2,7 +2,7 @@
 Employee class has attributes name and salary, and a method displayInfo().
 Manager class inherits from Employee and has an extra attribute department.
 Print all details using an object of Manager.
- ![image alt](https://github.com/aishagilani/module4/blob/a0e535e25a3931736d65bd189d44b40e71889540/1.jpeg)
+![image alt](https://github.com/aishagilani/module4/blob/a0e535e25a3931736d65bd189d44b40e71889540/1.jpeg)
 
 2) Create a Shape class with a method displayShape().
 Create two subclasses:
