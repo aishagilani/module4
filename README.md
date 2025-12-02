@@ -42,3 +42,33 @@ Override it in subclasses Dentist, Cardiologist, and Surgeon to show different f
 12) Java program to Create a program to demonstrate Multilevel Inheritance using Animal → Dog → Puppy.
  ![image alt](https://github.com/aishagilani/module4/blob/ac7c3bc7e78eb67498820328f127354eedf54def/7.JPG)
 
+14) In a Banking System, a customer's Account Number should never change. The bank also has a standard method bankPolicy that must not be modified by any type of account (Savings, Current, etc.). Additionally, the class CentralBankRules contains rules that no other class should extend.
+
+ ![image alt](https://github.com/aishagilani/module4/blob/460f4132f3702ac0366494a39b9e2b3059891d1a/1mod.jpeg)
+
+15) Java program to write a program to override toString(), equals(), hashCode() and print class using getClass().
+
+  ![image alt](https://github.com/aishagilani/module4/blob/460f4132f3702ac0366494a39b9e2b3059891d1a/2mod.jpeg)
+
+16) Create an interface Bank with method rateOfInterest.
+Create classes SBI and HDFC to return different interest rates.
+
+   ![image alt](https://github.com/aishagilani/module4/blob/460f4132f3702ac0366494a39b9e2b3059891d1a/3mod.jpeg)
+
+15) Create a package vehicles. Inside it, create an interface Vehicle with method speed. Create classes Bike and Car that implement it. Import and test them in another file.
+
+ ![image alt](https://github.com/aishagilani/module4/blob/460f4132f3702ac0366494a39b9e2b3059891d1a/4mod.jpeg)
+   
+
+16) Use java.util. ArrayList to:
+Add 5 names
+Remove 1 name
+Print the final list
+
+  ![image alt](https://github.com/aishagilani/module4/blob/460f4132f3702ac0366494a39b9e2b3059891d1a/5mod.jpeg)
+
+     
+
+
+
+
